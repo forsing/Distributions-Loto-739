@@ -56,9 +56,9 @@ from sklearn.preprocessing import StandardScaler
 
 
 DEFAULTS = [
-    "/Users/4c/Desktop/GHQ/data/loto7_4704_k83.csv",
-    "/Users/4c/Desktop/GHQ/data/loto7_4704_k83_loto_2974.csv",
-    "/Users/4c/Desktop/GHQ/data/loto7_4704_k83_loto_plus_1730.csv",
+    "/data/loto7_4704_k83.csv",
+    "/data/loto7_4704_k83_loto_2974.csv",
+    "/data/loto7_4704_k83_loto_plus_1730.csv",
 ]
 
 LAGS = (1, 2, 4, 8, 16, 32)
@@ -1742,7 +1742,7 @@ Kopija poslednjeg kola: 0/64
 Predloga sa nizom 5+: 0
 Predloga potpuno u jednoj polovini: 0
 
-NEXT red 4705: 9,10,12,19,24,25,34
+NEXT red 4705: 9,x,12,y,24,z,34
 Prelaza koriscenih za finalno ucenje: 4672
 Postoji u istoriji: False
 Najduzi uzastopni niz: 2
@@ -1811,7 +1811,7 @@ Kopija poslednjeg kola: 0/64
 Predloga sa nizom 5+: 1
 Predloga potpuno u jednoj polovini: 2
 
-NEXT red 2975: 4,11,25,29,31,38,39
+NEXT red 2975: 4,x,25,y,31,z,39
 Prelaza koriscenih za finalno ucenje: 2942
 Postoji u istoriji: False
 Najduzi uzastopni niz: 2
@@ -1881,7 +1881,7 @@ Kopija poslednjeg kola: 0/64
 Predloga sa nizom 5+: 0
 Predloga potpuno u jednoj polovini: 3
 
-NEXT red 1731: 6,18,26,30,32,36,39
+NEXT red 1731: 6,x,26,y,32,z,39
 Prelaza koriscenih za finalno ucenje: 1698
 Postoji u istoriji: False
 Najduzi uzastopni niz: 1
@@ -1889,7 +1889,7 @@ Brojeva 1..19: 2
 
 
 
-Izvestaji sacuvani u: /Users/4c/Desktop/GHQ/Astra/Distributions/Distributions_Loto_V1_reports/20261018_103038_589035
+Izvestaji sacuvani u: /Distributions/Distributions_Loto_V1_reports/20261018_103038_589035
 """
 
 
